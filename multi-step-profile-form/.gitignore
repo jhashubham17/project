@@ -1,0 +1,14 @@
+# Node
+node_modules
+
+# Vite
+dist
+
+# Environment
+.env
+
+# VSCode
+.vscode/
+
+# Uploads
+server/uploads
