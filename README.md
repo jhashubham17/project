@@ -1,4 +1,4 @@
-# Multi-Step Profile Form 🧾
+# Multi-Step-Profile-Form 🧾
 
 A MERN stack application that allows users to update their profile through a multi-step form interface. This project includes frontend and backend validation, dynamic form fields, and conditional rendering based on user input.
 
